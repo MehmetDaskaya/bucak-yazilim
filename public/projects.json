@@ -2,183 +2,209 @@
   {
     "id": "site-26",
     "name": "SITE-26",
-    "description": "",
-    "thumbnail": null,
+    "description": "Bodrum'da lüks villa kiralama ve yaz tatili hizmeti",
+    "category": "Diğer",
+    "thumbnail": "/demos/site-26/screenshot.png",
     "url": "/demos/site-26"
   },
   {
     "id": "site-25",
     "name": "ARTISAN GALLERY | Çağdaş Türk Sanatı Seçkisi",
     "description": "Türkiye'nin önde gelen ve yükselen yeteneklerinin özgün eserlerini keşfedin. Evinize veya ofisinize ruh katacak orijinal tablolar, heykeller ve limitli edisyon baskılar.",
-    "thumbnail": null,
+    "category": "Sanat & Tasarım",
+    "thumbnail": "/demos/site-25/screenshot.png",
     "url": "/demos/site-25"
   },
   {
     "id": "site-24",
     "name": "KIDS DISCOVERY | Erken Çocukluk & Gelişim Danışmanlığı",
     "description": "Çocuğunuzun potansiyelini sevgiyle ve bilimle keşfedin. Erken çocukluk döneminde (0-6 yaş) uzman psikologlar ve eğitmenler eşliğinde bireyselleştirilmiş oyun ve gelişim programları.",
-    "thumbnail": null,
+    "category": "Eğitim & Kurs",
+    "thumbnail": "/demos/site-24/screenshot.png",
     "url": "/demos/site-24"
   },
   {
     "id": "site-23",
     "name": "VILLA MARE | Ege Butik Otel & Konaklama",
     "description": "Zeytin ağaçlarının gölgesinde, Ege Denizi'nin mavisinde uyanın. İzmir'in en sakin koylarından birinde yer alan butik otelimizde doğayla iç içe, huzurlu bir lüks deneyimleyin.",
-    "thumbnail": null,
+    "category": "E-Ticaret & Satış",
+    "thumbnail": "/demos/site-23/screenshot.png",
     "url": "/demos/site-23"
   },
   {
     "id": "site-22",
     "name": "CRAFT & HIDE | El Yapımı Deri Atölyesi",
     "description": "Zamanla güzelleşen anılar taşıyın. En kaliteli bitkisel tabaklanmış derilerden, geleneksel saraçlık yöntemleriyle tamamen elde üretilen premium çanta ve aksesuarlar.",
-    "thumbnail": null,
+    "category": "E-Ticaret & Satış",
+    "thumbnail": "/demos/site-22/screenshot.png",
     "url": "/demos/site-22"
   },
   {
     "id": "site-21",
     "name": "ATLAS | Premium Nakliyat & Lojistik",
     "description": "Eşyalarınız bizimle güvende. Türkiye'nin her noktasına asansörlü, sigortalı ve profesyonel ambalajlamalı VIP evden eve nakliyat hizmeti.",
-    "thumbnail": null,
+    "category": "Diğer",
+    "thumbnail": "/demos/site-21/screenshot.png",
     "url": "/demos/site-21"
   },
   {
     "id": "site-20",
     "name": "Şeb-i Arus | Konya Tasavvuf & Mevlana Turizmi",
     "description": "Mevlana'nın izinde, ruhani bir yolculuğa çıkın. VIP rehberler eşliğinde özel türbe ziyaretleri, tarihi sema gösterileri ve Konya'nın mistik atmosferinde unutulmaz bir deneyim.",
-    "thumbnail": null,
+    "category": "Turizm & Konaklama",
+    "thumbnail": "/demos/site-20/screenshot.png",
     "url": "/demos/site-20"
   },
   {
     "id": "site-19",
     "name": "GLYPH | Marka Tasarım & Strateji Ajansı",
     "description": "Markanızı sadece bir logodan ibaret görmüyoruz. Ankara merkezli bağımsız tasarım ajansımızla, şirketinizin ruhunu yansıtan zamansız ve etkili marka kimlikleri inşa ediyoruz.",
-    "thumbnail": null,
+    "category": "Sanat & Tasarım",
+    "thumbnail": "/demos/site-19/screenshot.png",
     "url": "/demos/site-19"
   },
   {
     "id": "site-18",
     "name": "AURA Botanics | Saf Doğal Cilt Bakımı",
     "description": "Anadolu'nun zengin endemik bitki florasından elde edilen %100 doğal, vegan ve temiz içerikli cilt bakım ritüelleri.",
-    "thumbnail": null,
+    "category": "E-Ticaret & Satış",
+    "thumbnail": "/demos/site-18/screenshot.png",
     "url": "/demos/site-18"
   },
   {
     "id": "site-17",
     "name": "LENS | Profesyonel Fotoğraf & Prodüksiyon Stüdyosu",
     "description": "E-ticaret ürün çekimlerinden profesyonel kurumsal portrelere kadar, markanızı ve imajınızı en yüksek kalitede yansıtan İstanbul merkezli yaratıcı prodüksiyon stüdyosu.",
-    "thumbnail": null,
+    "category": "Sanat & Tasarım",
+    "thumbnail": "/demos/site-17/screenshot.png",
     "url": "/demos/site-17"
   },
   {
     "id": "site-16",
     "name": "7/24 Tesisat | İstanbul Acil Tesisat Çözümleri",
     "description": "Su kaçağı, tıkanıklık ve tüm sıhhi tesisat arızalarında 30 dakikada kapınızda olan, kırmadan dökmeden robotla tespit yapan profesyonel ustalar.",
-    "thumbnail": null,
+    "category": "Diğer",
+    "thumbnail": "/demos/site-16/screenshot.png",
     "url": "/demos/site-16"
   },
   {
     "id": "site-15",
     "name": "Sofra | Geleneksel Türk Mutfağı & Catering",
     "description": "Anne eli değmiş gibi özenle hazırlanan asırlık tarifler, yöresel lezzetler ve özel davetleriniz için premium catering hizmeti.",
-    "thumbnail": null,
+    "category": "Yeme & İçme",
+    "thumbnail": "/demos/site-15/screenshot.png",
     "url": "/demos/site-15"
   },
   {
     "id": "site-14",
     "name": "SITE-14",
-    "description": "",
-    "thumbnail": null,
+    "description": "Çocuklar için özel yüzme kursu veren spor tesisi",
+    "category": "Eğitim & Kurs",
+    "thumbnail": "/demos/site-14/screenshot.png",
     "url": "/demos/site-14"
   },
   {
     "id": "site-13",
     "name": "Dokuma | Anadolu El Sanatları Galerisi",
     "description": "Her iplik bir hikâye, her desen bir coğrafya — Anadolu'nun nesiller boyu aktarılan el dokuması kilimlerini modern koleksiyoncularla buluşturan sanat galerisi.",
-    "thumbnail": null,
+    "category": "Sanat & Tasarım",
+    "thumbnail": "/demos/site-13/screenshot.png",
     "url": "/demos/site-13"
   },
   {
     "id": "site-12",
     "name": "SITE-12",
-    "description": "",
-    "thumbnail": null,
+    "description": "Yoga ve meditasyon dersleri veren holistik sağlık merkezi",
+    "category": "Sağlık & Psikoloji",
+    "thumbnail": "/demos/site-12/screenshot.png",
     "url": "/demos/site-12"
   },
   {
     "id": "site-11",
     "name": "İstanbul Olta | Balıkçı Ekipman Mağazası",
     "description": "İstanbul'un kalbi Boğaz'da yıllar boyu balık avlamış ustaların güvendiği ekipmanlar — makara, olta, yem ve daha fazlası tek adreste.",
-    "thumbnail": null,
+    "category": "Diğer",
+    "thumbnail": "/demos/site-11/screenshot.png",
     "url": "/demos/site-11"
   },
   {
     "id": "site-10",
     "name": "Anadolu Baharat | Organik & Doğal Lezzetler",
     "description": "Anadolu'nun bereketli topraklarından sofralarınıza ulaşan, %100 organik sertifikalı baharat, kuruyemiş ve doğal gıda ürünleri — katkısız, taze ve el seçimi.",
-    "thumbnail": null,
+    "category": "E-Ticaret & Satış",
+    "thumbnail": "/demos/site-10/screenshot.png",
     "url": "/demos/site-10"
   },
   {
     "id": "site-9",
     "name": "SITE-9",
-    "description": "",
-    "thumbnail": null,
+    "description": "Antika halı ve kilim satışı yapan Kapalıçarşı galerisi",
+    "category": "Sanat & Tasarım",
+    "thumbnail": "/demos/site-9/screenshot.png",
     "url": "/demos/site-9"
   },
   {
     "id": "site-8",
     "name": "Bosphorus Glow | Premium Tekne Turları",
     "description": "İstanbul Boğazı'nın eşsiz güzelliğini, altın saatlerin büyüleyici ışığında, lüks yatlarımızla kişiye özel deneyimleyin.",
-    "thumbnail": null,
+    "category": "Turizm & Konaklama",
+    "thumbnail": "/demos/site-8/screenshot.png",
     "url": "/demos/site-8"
   },
   {
     "id": "site-7",
     "name": "Sahlepçi Efendi | Geleneksel Türk İçecekleri",
     "description": "Kışın iç ısıtan gerçek Burdur salebi, yazın ferahlatan demirhindi şerbeti... Katkısız, ev yapımı ve %100 doğal içeriklerle hazırlanan asırlık lezzetleri kapınıza getiriyoruz.",
-    "thumbnail": null,
+    "category": "Diğer",
+    "thumbnail": "/demos/site-7/screenshot.png",
     "url": "/demos/site-7"
   },
   {
     "id": "site-6",
     "name": "KodaKids Türkiye | Geleceğin Mimarları",
     "description": "Çocuklarınızın ekran başında geçirdiği vakti üretime dönüştürüyoruz. Eğlenceli oyunlar, interaktif projeler ve pedagog onaylı müfredatla geleceğin yazılımcılarını bugünden yetiştirin.",
-    "thumbnail": null,
+    "category": "Eğitim & Kurs",
+    "thumbnail": "/demos/site-6/screenshot.png",
     "url": "/demos/site-6"
   },
   {
     "id": "site-5",
     "name": "Matbah-ı Amire | Osmanlı Gastronomi Sanatı",
     "description": "Saray mutfağının unutulmaya yüz tutmuş eşsiz lezzetlerini ve yüzlerce yıllık sırlarını, modern mutfaklara taşıyan seçkin bir akademi ve gastronomi güncesi.",
-    "thumbnail": null,
+    "category": "Eğitim & Kurs",
+    "thumbnail": "/demos/site-5/screenshot.png",
     "url": "/demos/site-5"
   },
   {
     "id": "site-4",
     "name": "SITE-4",
     "description": "",
-    "thumbnail": null,
+    "category": "Kurumsal & Danışmanlık",
+    "thumbnail": "/demos/site-4/screenshot.png",
     "url": "/demos/site-4"
   },
   {
     "id": "site-3",
     "name": "Lumina Atelier | El İşçiliği Takı Tasarımı",
     "description": "Anadolu'nun kadim motiflerini modern minimalizm ile buluşturuyoruz. Sadece sana özel, elde üretilmiş ve 925 ayar gümüş/altın kaplama özgün takılar.",
-    "thumbnail": null,
+    "category": "E-Ticaret & Satış",
+    "thumbnail": "/demos/site-3/screenshot.png",
     "url": "/demos/site-3"
   },
   {
     "id": "site-1",
     "name": "Alfa Akademi | Ankara VIP Matematik",
     "description": "Matematiği ezberlemeyin, mantığını keşfedin. YKS ve LGS'de Türkiye derecesi hedefleyen öğrencilere özel birebir eğitim programı.",
-    "thumbnail": null,
+    "category": "Eğitim & Kurs",
+    "thumbnail": "/demos/site-1/screenshot.png",
     "url": "/demos/site-1"
   },
   {
     "id": "site-0",
     "name": "Pırlanta Ev Bakım Sistemleri",
     "description": "Evinizi sıradan bir temizliğe değil, %100 organik ürünlerle hizmet veren profesyonel ve kurumsal bir bakım ekibine teslim edin.",
-    "thumbnail": null,
+    "category": "Kurumsal & Danışmanlık",
+    "thumbnail": "/demos/site-0/screenshot.png",
     "url": "/demos/site-0"
   }
 ]

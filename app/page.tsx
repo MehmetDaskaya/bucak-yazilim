@@ -1,25 +1,56 @@
-import fs from 'fs';
-import path from 'path';
+'use client';
+
+import React, { useState, useMemo } from 'react';
 import Link from 'next/link';
+import projectsData from '../public/projects.json';
 
 interface Project {
   id: string;
   name: string;
   description: string;
+  category?: string;
   thumbnail: string | null;
   url: string;
 }
 
 export default function Home() {
-  let projects: Project[] = [];
-  try {
-    const dataPath = path.join(process.cwd(), 'public', 'projects.json');
-    if (fs.existsSync(dataPath)) {
-      projects = JSON.parse(fs.readFileSync(dataPath, 'utf8'));
-    }
-  } catch (err) {
-    console.error("Error reading projects:", err);
-  }
+  const projects: Project[] = projectsData as Project[];
+  
+  const [searchQuery, setSearchQuery] = useState('');
+  const [selectedCategory, setSelectedCategory] = useState<string>('Tümü');
+
+  // Extract unique categories dynamically
+  const categories = useMemo(() => {
+    const cats = new Set<string>();
+    projects.forEach(p => {
+      if (p.category) cats.add(p.category);
+    });
+    return ['Tümü', ...Array.from(cats)].sort();
+  }, [projects]);
+
+  // Filter and search logic
+  const filteredProjects = useMemo(() => {
+    return projects.filter(project => {
+      // Category filter
+      if (selectedCategory !== 'Tümü' && project.category !== selectedCategory) {
+        return false;
+      }
+      
+      // Fuzzy search
+      if (searchQuery.trim() !== '') {
+        const query = searchQuery.toLowerCase();
+        const matchName = project.name?.toLowerCase().includes(query);
+        const matchDesc = project.description?.toLowerCase().includes(query);
+        const matchCat = project.category?.toLowerCase().includes(query);
+        
+        if (!matchName && !matchDesc && !matchCat) {
+          return false;
+        }
+      }
+      
+      return true;
+    });
+  }, [projects, searchQuery, selectedCategory]);
 
   return (
     <div className="min-h-screen bg-[#0f172a] text-slate-200 font-sans selection:bg-blue-500/30">
@@ -69,23 +100,58 @@ export default function Home() {
       {/* Gallery */}
       <section id="projeler" className="py-24 px-6 bg-slate-900 relative">
         <div className="max-w-7xl mx-auto">
-          <div className="flex flex-col md:flex-row md:items-end justify-between mb-16 gap-6">
+          <div className="flex flex-col md:flex-row md:items-end justify-between mb-8 gap-6">
             <div>
               <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">Proje Galerisi</h2>
               <p className="text-slate-400">Farklı sektörler için özel olarak üretilmiş premium şablonlar.</p>
             </div>
             <div className="text-slate-500 text-sm font-medium">
-              Toplam {projects.length} şablon listeleniyor
+              Toplam {filteredProjects.length} şablon listeleniyor
             </div>
           </div>
 
-          {projects.length === 0 ? (
+          {/* Search and Filter */}
+          <div className="mb-12 space-y-6">
+            {/* Search Bar */}
+            <div className="relative max-w-2xl">
+              <div className="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none">
+                <svg className="w-5 h-5 text-slate-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg>
+              </div>
+              <input
+                type="text"
+                placeholder="Şablon adı, açıklaması veya kategorisi ara..."
+                value={searchQuery}
+                onChange={(e) => setSearchQuery(e.target.value)}
+                className="w-full bg-slate-800/50 border border-slate-700 rounded-xl pl-12 pr-4 py-4 text-white focus:outline-none focus:border-blue-500 focus:ring-1 focus:ring-blue-500 transition-all shadow-inner"
+              />
+            </div>
+            
+            {/* Category Pills */}
+            <div className="flex flex-wrap gap-2">
+              {categories.map((cat) => (
+                <button
+                  key={cat}
+                  onClick={() => setSelectedCategory(cat)}
+                  className={`px-4 py-2 rounded-full text-sm font-medium transition-all ${
+                    selectedCategory === cat 
+                      ? 'bg-blue-600 text-white shadow-lg shadow-blue-500/30 border border-blue-500' 
+                      : 'bg-slate-800/50 text-slate-400 hover:text-white hover:bg-slate-700 border border-slate-700/50 hover:border-slate-600'
+                  }`}
+                >
+                  {cat}
+                </button>
+              ))}
+            </div>
+          </div>
+
+          {filteredProjects.length === 0 ? (
             <div className="text-center py-32 border border-slate-800 rounded-2xl bg-slate-800/50">
-              <p className="text-slate-400">Henüz listelenecek proje bulunmuyor.</p>
+              <p className="text-slate-400 text-lg mb-2">Aramanıza uygun şablon bulunamadı.</p>
+              <button onClick={() => {setSearchQuery(''); setSelectedCategory('Tümü');}} className="text-blue-400 hover:text-blue-300 underline underline-offset-4">Filtreleri Temizle</button>
             </div>
           ) : (
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-              {projects.map((project, idx) => (
+              {filteredProjects.map((project, idx) => (
                 <div key={idx} className="group bg-slate-800/50 border border-slate-700/50 rounded-2xl overflow-hidden hover:border-slate-600 transition-all hover:-translate-y-1">
                   <div className="aspect-video relative overflow-hidden bg-slate-800">
                     {project.thumbnail ? (
@@ -103,6 +169,11 @@ export default function Home() {
                       <span className="px-2.5 py-1 text-[10px] font-bold uppercase tracking-wider bg-white/10 backdrop-blur-md text-white rounded-md border border-white/10">
                         {project.id.toUpperCase()}
                       </span>
+                      {project.category && (
+                        <span className="px-2.5 py-1 text-[10px] font-bold uppercase tracking-wider bg-blue-500/20 backdrop-blur-md text-blue-300 rounded-md border border-blue-500/20">
+                          {project.category}
+                        </span>
+                      )}
                     </div>
                   </div>
                   
