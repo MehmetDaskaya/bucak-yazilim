@@ -2,8 +2,16 @@ import fs from 'fs';
 import path from 'path';
 import Link from 'next/link';
 
+interface Project {
+  id: string;
+  name: string;
+  description: string;
+  thumbnail: string | null;
+  url: string;
+}
+
 export default function Home() {
-  let projects = [];
+  let projects: Project[] = [];
   try {
     const dataPath = path.join(process.cwd(), 'public', 'projects.json');
     if (fs.existsSync(dataPath)) {
