@@ -1,15 +1,271 @@
 [
   {
+    "id": "startup-mvp-080",
+    "name": "STARTUP-MVP-080",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/startup-mvp-080"
+  },
+  {
+    "id": "restaurant-booking-079",
+    "name": "RESTAURANT-BOOKING-079",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/restaurant-booking-079"
+  },
+  {
+    "id": "restaurant-booking-078",
+    "name": "RESTAURANT-BOOKING-078",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/restaurant-booking-078"
+  },
+  {
+    "id": "startup-mvp-077",
+    "name": "STARTUP-MVP-077",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/startup-mvp-077"
+  },
+  {
+    "id": "agency-site-076",
+    "name": "AGENCY-SITE-076",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/agency-site-076"
+  },
+  {
+    "id": "startup-mvp-075",
+    "name": "STARTUP-MVP-075",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/startup-mvp-075"
+  },
+  {
+    "id": "saas-landing-074",
+    "name": "SAAS-LANDING-074",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/saas-landing-074"
+  },
+  {
+    "id": "agency-site-073",
+    "name": "AGENCY-SITE-073",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/agency-site-073"
+  },
+  {
+    "id": "portfolio-dev-072",
+    "name": "PORTFOLIO-DEV-072",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/portfolio-dev-072"
+  },
+  {
+    "id": "saas-landing-071",
+    "name": "SAAS-LANDING-071",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/saas-landing-071"
+  },
+  {
+    "id": "agency-site-070",
+    "name": "AGENCY-SITE-070",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/agency-site-070"
+  },
+  {
+    "id": "saas-landing-069",
+    "name": "SAAS-LANDING-069",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/saas-landing-069"
+  },
+  {
+    "id": "restaurant-booking-068",
+    "name": "RESTAURANT-BOOKING-068",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/restaurant-booking-068"
+  },
+  {
+    "id": "agency-site-067",
+    "name": "AGENCY-SITE-067",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/agency-site-067"
+  },
+  {
+    "id": "portfolio-dev-066",
+    "name": "PORTFOLIO-DEV-066",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/portfolio-dev-066"
+  },
+  {
+    "id": "saas-landing-065",
+    "name": "SAAS-LANDING-065",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/saas-landing-065"
+  },
+  {
+    "id": "portfolio-dev-064",
+    "name": "PORTFOLIO-DEV-064",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/portfolio-dev-064"
+  },
+  {
+    "id": "startup-mvp-063",
+    "name": "STARTUP-MVP-063",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/startup-mvp-063"
+  },
+  {
+    "id": "portfolio-dev-062",
+    "name": "PORTFOLIO-DEV-062",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/portfolio-dev-062"
+  },
+  {
+    "id": "agency-site-061",
+    "name": "AGENCY-SITE-061",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/agency-site-061"
+  },
+  {
+    "id": "startup-mvp-060",
+    "name": "STARTUP-MVP-060",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/startup-mvp-060"
+  },
+  {
+    "id": "portfolio-dev-059",
+    "name": "PORTFOLIO-DEV-059",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/portfolio-dev-059"
+  },
+  {
+    "id": "ecommerce-landing-058",
+    "name": "ECOMMERCE-LANDING-058",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/ecommerce-landing-058"
+  },
+  {
+    "id": "portfolio-dev-057",
+    "name": "PORTFOLIO-DEV-057",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/portfolio-dev-057"
+  },
+  {
+    "id": "restaurant-booking-056",
+    "name": "RESTAURANT-BOOKING-056",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/restaurant-booking-056"
+  },
+  {
+    "id": "startup-mvp-055",
+    "name": "STARTUP-MVP-055",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/startup-mvp-055"
+  },
+  {
+    "id": "restaurant-booking-054",
+    "name": "RESTAURANT-BOOKING-054",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/restaurant-booking-054"
+  },
+  {
+    "id": "saas-landing-053",
+    "name": "SAAS-LANDING-053",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/saas-landing-053"
+  },
+  {
+    "id": "ecommerce-landing-052",
+    "name": "ECOMMERCE-LANDING-052",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/ecommerce-landing-052"
+  },
+  {
+    "id": "site-52",
+    "name": "SITE-52",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/site-52"
+  },
+  {
+    "id": "saas-landing-051",
+    "name": "SAAS-LANDING-051",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/saas-landing-051"
+  },
+  {
     "id": "site-51",
-    "name": "Generated Site",
+    "name": "SITE-51",
     "description": "El yapımı ahşap mobilya ve ev dekorasyonu atölyesi",
     "category": "Diğer",
     "thumbnail": "/demos/site-51/screenshot.png",
     "url": "/demos/site-51"
   },
   {
+    "id": "portfolio-dev-050",
+    "name": "PORTFOLIO-DEV-050",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/portfolio-dev-050"
+  },
+  {
     "id": "site-50",
-    "name": "Generated Site",
+    "name": "SITE-50",
     "description": "İstanbul Beşiktaş bölgesinde özel ders veren matematik öğretmeni",
     "category": "Diğer",
     "thumbnail": "/demos/site-50/screenshot.png",
@@ -17,19 +273,43 @@
   },
   {
     "id": "site-49",
-    "name": "Generated Site",
+    "name": "SITE-49",
     "description": "Türkiye genelinde güneş enerjisi paneli kurulum hizmeti",
     "category": "Diğer",
     "thumbnail": "/demos/site-49/screenshot.png",
     "url": "/demos/site-49"
   },
   {
+    "id": "startup-mvp-049",
+    "name": "STARTUP-MVP-049",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/startup-mvp-049"
+  },
+  {
+    "id": "saas-landing-048",
+    "name": "SAAS-LANDING-048",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/saas-landing-048"
+  },
+  {
     "id": "site-48",
-    "name": "Generated Site",
+    "name": "SITE-48",
     "description": "Çocuklar için yaratıcı sanat atölyesi ve resim dersleri",
     "category": "Diğer",
     "thumbnail": "/demos/site-48/screenshot.png",
     "url": "/demos/site-48"
+  },
+  {
+    "id": "portfolio-dev-047",
+    "name": "PORTFOLIO-DEV-047",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/portfolio-dev-047"
   },
   {
     "id": "site-47",
@@ -40,12 +320,28 @@
     "url": "/demos/site-47"
   },
   {
+    "id": "saas-landing-046",
+    "name": "SAAS-LANDING-046",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/saas-landing-046"
+  },
+  {
     "id": "site-46",
-    "name": "Generated Site",
+    "name": "SITE-46",
     "description": "İstanbul'da özel düğün pastası tasarım atölyesi",
     "category": "Diğer",
     "thumbnail": "/demos/site-46/screenshot.png",
     "url": "/demos/site-46"
+  },
+  {
+    "id": "saas-landing-045",
+    "name": "SAAS-LANDING-045",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/saas-landing-045"
   },
   {
     "id": "site-45",
@@ -56,6 +352,14 @@
     "url": "/demos/site-45"
   },
   {
+    "id": "saas-landing-044",
+    "name": "SAAS-LANDING-044",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/saas-landing-044"
+  },
+  {
     "id": "site-44",
     "name": "Neva Müzik Evi | Türk Müziği Enstrümanları & Kursu",
     "description": "Geleneksel Türk müziğinin büyülü dünyasına adım atın. Usta işi enstrümanlar ve profesyonel eğitmenler eşliğinde müzik yolculuğunuza Neva ile başlayın.",
@@ -64,12 +368,28 @@
     "url": "/demos/site-44"
   },
   {
+    "id": "restaurant-booking-043",
+    "name": "RESTAURANT-BOOKING-043",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/restaurant-booking-043"
+  },
+  {
     "id": "site-43",
-    "name": "Generated Site",
+    "name": "SITE-43",
     "description": "Ankara'da mimarlık ve iç mekan tasarım bürosu",
     "category": "Diğer",
     "thumbnail": "/demos/site-43/screenshot.png",
     "url": "/demos/site-43"
+  },
+  {
+    "id": "portfolio-dev-042",
+    "name": "PORTFOLIO-DEV-042",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/portfolio-dev-042"
   },
   {
     "id": "site-42",
@@ -80,12 +400,36 @@
     "url": "/demos/site-42"
   },
   {
+    "id": "startup-mvp-041",
+    "name": "STARTUP-MVP-041",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/startup-mvp-041"
+  },
+  {
+    "id": "ecommerce-landing-040",
+    "name": "ECOMMERCE-LANDING-040",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/ecommerce-landing-040"
+  },
+  {
     "id": "site-40",
-    "name": "Generated Site",
+    "name": "SITE-40",
     "description": "Handmade sabun ve doğal kozmetik üretimi Türk markası",
     "category": "Diğer",
     "thumbnail": null,
     "url": "/demos/site-40"
+  },
+  {
+    "id": "portfolio-dev-039",
+    "name": "PORTFOLIO-DEV-039",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/portfolio-dev-039"
   },
   {
     "id": "site-39",
@@ -96,12 +440,36 @@
     "url": "/demos/site-39"
   },
   {
+    "id": "saas-landing-038",
+    "name": "SAAS-LANDING-038",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/saas-landing-038"
+  },
+  {
+    "id": "saas-landing-037",
+    "name": "SAAS-LANDING-037",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/saas-landing-037"
+  },
+  {
     "id": "site-37",
     "name": "CoreBalance Studio",
     "description": "Bedeninizin merkezini güçlendirin, ruhunuzu dengeleyin. İstanbul'un kalbinde, size özel kişiselleştirilmiş pilates ve klinik postür deneyimi.",
     "category": "Sağlık & Psikoloji",
     "thumbnail": null,
     "url": "/demos/site-37"
+  },
+  {
+    "id": "saas-landing-036",
+    "name": "SAAS-LANDING-036",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/saas-landing-036"
   },
   {
     "id": "site-36",
@@ -112,6 +480,22 @@
     "url": "/demos/site-36"
   },
   {
+    "id": "saas-landing-035",
+    "name": "SAAS-LANDING-035",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/saas-landing-035"
+  },
+  {
+    "id": "saas-landing-034",
+    "name": "SAAS-LANDING-034",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/saas-landing-034"
+  },
+  {
     "id": "site-34",
     "name": "Alaçatı Rüzgarı Surf Okulu",
     "description": "Türkiye'nin sörf cenneti Çeşme Alaçatı'da rüzgarı hissedin, dalgaları fethedin. Profesyonel eğitmenlerle adrenalin dolu bir maceraya hazır olun.",
@@ -120,12 +504,28 @@
     "url": "/demos/site-34"
   },
   {
+    "id": "saas-landing-033",
+    "name": "SAAS-LANDING-033",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/saas-landing-033"
+  },
+  {
     "id": "site-33",
     "name": "Kariyer Zirvesi Danışmanlık",
     "description": "Potansiyelinizi keşfedin, mülakatları fethedin. Özgeçmişinizi baştan yaratıyor ve sizi hayalinizdeki kariyere taşıyoruz.",
     "category": "Kurumsal & Danışmanlık",
     "thumbnail": null,
     "url": "/demos/site-33"
+  },
+  {
+    "id": "ecommerce-landing-032",
+    "name": "ECOMMERCE-LANDING-032",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/ecommerce-landing-032"
   },
   {
     "id": "site-32",
@@ -144,12 +544,36 @@
     "url": "/demos/site-31"
   },
   {
+    "id": "startup-mvp-031",
+    "name": "STARTUP-MVP-031",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/startup-mvp-031"
+  },
+  {
+    "id": "saas-landing-030",
+    "name": "SAAS-LANDING-030",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/saas-landing-030"
+  },
+  {
     "id": "site-30",
     "name": "Eternity Frames",
     "description": "Hayatınızın en mutlu gününü sinematik bir başyapıta dönüştürüyoruz. İstanbul ve Ankara'nın en prestijli düğün hikayecileri.",
     "category": "Sanat & Tasarım",
     "thumbnail": null,
     "url": "/demos/site-30"
+  },
+  {
+    "id": "ecommerce-landing-029",
+    "name": "ECOMMERCE-LANDING-029",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/ecommerce-landing-029"
   },
   {
     "id": "site-29",
@@ -160,12 +584,28 @@
     "url": "/demos/site-29"
   },
   {
+    "id": "portfolio-dev-028",
+    "name": "PORTFOLIO-DEV-028",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/portfolio-dev-028"
+  },
+  {
     "id": "site-28",
     "name": "Cacao & Delight",
     "description": "Yüzyıllık tariflerle hazırlanan el yapımı, premium Türk çikolatası ve lüks lokum koleksiyonları.",
     "category": "Yeme & İçme",
     "thumbnail": null,
     "url": "/demos/site-28"
+  },
+  {
+    "id": "restaurant-booking-027",
+    "name": "RESTAURANT-BOOKING-027",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/restaurant-booking-027"
   },
   {
     "id": "site-27",
@@ -176,12 +616,28 @@
     "url": "/demos/site-27"
   },
   {
+    "id": "portfolio-dev-026",
+    "name": "PORTFOLIO-DEV-026",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/portfolio-dev-026"
+  },
+  {
     "id": "site-26",
     "name": "SITE-26",
     "description": "Bodrum'da lüks villa kiralama ve yaz tatili hizmeti",
     "category": "Diğer",
     "thumbnail": "/demos/site-26/screenshot.png",
     "url": "/demos/site-26"
+  },
+  {
+    "id": "saas-landing-025",
+    "name": "SAAS-LANDING-025",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/saas-landing-025"
   },
   {
     "id": "site-25",
@@ -192,12 +648,28 @@
     "url": "/demos/site-25"
   },
   {
+    "id": "portfolio-dev-024",
+    "name": "PORTFOLIO-DEV-024",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/portfolio-dev-024"
+  },
+  {
     "id": "site-24",
     "name": "KIDS DISCOVERY | Erken Çocukluk & Gelişim Danışmanlığı",
     "description": "Çocuğunuzun potansiyelini sevgiyle ve bilimle keşfedin. Erken çocukluk döneminde (0-6 yaş) uzman psikologlar ve eğitmenler eşliğinde bireyselleştirilmiş oyun ve gelişim programları.",
     "category": "Eğitim & Kurs",
     "thumbnail": "/demos/site-24/screenshot.png",
     "url": "/demos/site-24"
+  },
+  {
+    "id": "restaurant-booking-023",
+    "name": "RESTAURANT-BOOKING-023",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/restaurant-booking-023"
   },
   {
     "id": "site-23",
@@ -208,12 +680,28 @@
     "url": "/demos/site-23"
   },
   {
+    "id": "ecommerce-landing-022",
+    "name": "ECOMMERCE-LANDING-022",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/ecommerce-landing-022"
+  },
+  {
     "id": "site-22",
     "name": "CRAFT & HIDE | El Yapımı Deri Atölyesi",
     "description": "Zamanla güzelleşen anılar taşıyın. En kaliteli bitkisel tabaklanmış derilerden, geleneksel saraçlık yöntemleriyle tamamen elde üretilen premium çanta ve aksesuarlar.",
     "category": "E-Ticaret & Satış",
     "thumbnail": "/demos/site-22/screenshot.png",
     "url": "/demos/site-22"
+  },
+  {
+    "id": "portfolio-dev-021",
+    "name": "PORTFOLIO-DEV-021",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/portfolio-dev-021"
   },
   {
     "id": "site-21",
@@ -224,12 +712,28 @@
     "url": "/demos/site-21"
   },
   {
+    "id": "saas-landing-020",
+    "name": "SAAS-LANDING-020",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/saas-landing-020"
+  },
+  {
     "id": "site-20",
     "name": "Şeb-i Arus | Konya Tasavvuf & Mevlana Turizmi",
     "description": "Mevlana'nın izinde, ruhani bir yolculuğa çıkın. VIP rehberler eşliğinde özel türbe ziyaretleri, tarihi sema gösterileri ve Konya'nın mistik atmosferinde unutulmaz bir deneyim.",
     "category": "Turizm & Konaklama",
     "thumbnail": "/demos/site-20/screenshot.png",
     "url": "/demos/site-20"
+  },
+  {
+    "id": "ecommerce-landing-019",
+    "name": "ECOMMERCE-LANDING-019",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/ecommerce-landing-019"
   },
   {
     "id": "site-19",
@@ -246,6 +750,22 @@
     "category": "E-Ticaret & Satış",
     "thumbnail": "/demos/site-18/screenshot.png",
     "url": "/demos/site-18"
+  },
+  {
+    "id": "startup-mvp-018",
+    "name": "STARTUP-MVP-018",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/startup-mvp-018"
+  },
+  {
+    "id": "portfolio-dev-017",
+    "name": "PORTFOLIO-DEV-017",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/portfolio-dev-017"
   },
   {
     "id": "site-17",
@@ -376,11 +896,139 @@
     "url": "/demos/site-1"
   },
   {
+    "id": "ai-writing-assistant",
+    "name": "AI-WRITING-ASSISTANT",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/ai-writing-assistant"
+  },
+  {
+    "id": "bistro-deluxe",
+    "name": "BISTRO-DELUXE",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/bistro-deluxe"
+  },
+  {
+    "id": "carbon-track",
+    "name": "CARBON-TRACK",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/carbon-track"
+  },
+  {
+    "id": "creative-studio",
+    "name": "CREATIVE-STUDIO",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/creative-studio"
+  },
+  {
+    "id": "deploy-fast",
+    "name": "DEPLOY-FAST",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/deploy-fast"
+  },
+  {
+    "id": "dev-showcase",
+    "name": "DEV-SHOWCASE",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/dev-showcase"
+  },
+  {
+    "id": "eco-essentials",
+    "name": "ECO-ESSENTIALS",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/eco-essentials"
+  },
+  {
+    "id": "feedback-loop",
+    "name": "FEEDBACK-LOOP",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/feedback-loop"
+  },
+  {
+    "id": "growth-labs",
+    "name": "GROWTH-LABS",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/growth-labs"
+  },
+  {
+    "id": "invoice-pro",
+    "name": "INVOICE-PRO",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/invoice-pro"
+  },
+  {
+    "id": "pixel-forge",
+    "name": "PIXEL-FORGE",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/pixel-forge"
+  },
+  {
+    "id": "pizza-craft",
+    "name": "PIZZA-CRAFT",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/pizza-craft"
+  },
+  {
     "id": "site-0",
     "name": "Pırlanta Ev Bakım Sistemleri",
     "description": "Evinizi sıradan bir temizliğe değil, %100 organik ürünlerle hizmet veren profesyonel ve kurumsal bir bakım ekibine teslim edin.",
     "category": "Kurumsal & Danışmanlık",
     "thumbnail": "/demos/site-0/screenshot.png",
     "url": "/demos/site-0"
+  },
+  {
+    "id": "skill-match",
+    "name": "SKILL-MATCH",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/skill-match"
+  },
+  {
+    "id": "sushi-zen",
+    "name": "SUSHI-ZEN",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/sushi-zen"
+  },
+  {
+    "id": "task-automation-hub",
+    "name": "TASK-AUTOMATION-HUB",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/task-automation-hub"
+  },
+  {
+    "id": "tech-gadgets-pro",
+    "name": "TECH-GADGETS-PRO",
+    "description": "",
+    "category": "Diğer",
+    "thumbnail": null,
+    "url": "/demos/tech-gadgets-pro"
   }
 ]
