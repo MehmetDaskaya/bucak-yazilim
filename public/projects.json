@@ -1,5 +1,13 @@
 [
   {
+    "id": "site-99",
+    "name": "İZMIR'DE YOGA RETREAT",
+    "description": "İzmir'de yoga retreat ve doğa kampı organizasyonu",
+    "category": "Diğer",
+    "thumbnail": "/demos/site-99/screenshot.png",
+    "url": "/demos/site-99"
+  },
+  {
     "id": "site-52",
     "name": "SITE-52",
     "description": "",
