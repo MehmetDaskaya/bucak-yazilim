@@ -844,7 +844,7 @@
     "name": "Anatolian Spice & Co.",
     "description": "Anadolu'nun bereketli topraklarından özenle seçilmiş organik baharatları ve doğal gıda ürünlerini uluslararası kalite standartlarında dünya pazarına sunuyoruz.",
     "category": "E-Ticaret & Satış",
-    "thumbnail": null,
+    "thumbnail": "/demos/site-66/screenshot.png",
     "url": "/demos/site-66"
   },
   {
@@ -921,18 +921,18 @@
   },
   {
     "id": "site-56",
-    "name": "TÜRK KAHVESI VE",
-    "description": "Türk kahvesi ve özel kahve çekirdekleri satış mağazası",
-    "category": "Diğer",
+    "name": "Közde & Çekirdek",
+    "description": "Geleneksel Türk kahvesi ustalığını dünyanın en özel kahve çekirdekleriyle buluşturan butik kahve kavurucunuz.",
+    "category": "E-Ticaret & Satış",
     "thumbnail": "/demos/site-56/screenshot.png",
     "url": "/demos/site-56"
   },
   {
     "id": "site-55",
-    "name": "Toprak Sepeti | Organik Çiftlik Aboneliği",
-    "description": "Anadolu'nun bereketli topraklarından, sertifikalı yerel çiftçilerin dalından kopardığı en taze ve organik lezzetler haftalık abonelikle kapınızda.",
+    "name": "Tazeden Kutu",
+    "description": "Yerel Türk çiftliklerinden doğrudan kapınıza: Mevsiminde, organik ve taze sebze/meyve aboneliği.",
     "category": "E-Ticaret & Satış",
-    "thumbnail": null,
+    "thumbnail": "/demos/site-55/screenshot.png",
     "url": "/demos/site-55"
   },
   {
