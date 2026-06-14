@@ -721,10 +721,10 @@
   },
   {
     "id": "site-81",
-    "name": "Anatolia Origins | Otantik Kültür Turları",
-    "description": "Türkiye'nin binlerce yıllık mirasını standart turist rotalarının ötesinde deneyimleyin. Yerel ustalarla atölyeler, gizli kalmış lezzet durakları ve tarihe dokunan butik kültür turları.",
+    "name": "Anatolia Heritage | Authentic Turkish Cultural Tours",
+    "description": "Binlerce yıllık Anadolu medeniyetlerini, geleneksel Türk sanatlarını ve eşsiz lezzetleri turistlerle buluşturan premium kültürel tur ve etkinlik organizasyonu.",
     "category": "Turizm & Konaklama",
-    "thumbnail": null,
+    "thumbnail": "/demos/site-81/screenshot.png",
     "url": "/demos/site-81"
   },
   {
